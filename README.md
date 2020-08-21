@@ -1,6 +1,6 @@
 # Data Sources
 
-This is a live document and is an effort to compile a list of useful openly available data sources. Please add any useful sources!
+This is a live document and is an effort to compile a list of useful openly available data sources. Please make your contributions. Fork the repo and commit changes to any useful sources!
 
 ## Mobility
 

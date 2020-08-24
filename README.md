@@ -4,6 +4,10 @@ This is a live document and is an effort to compile a list of useful openly avai
 
 ## Mobility
 
+## COVID
+
+[UK](https://github.com/publichealthengland/coronavirus-dashboard-api-R-sdk)
+
 ### Bike data
 [rOpenSci: The bikedata package](https://docs.ropensci.org/bikedata/index.html)
 
